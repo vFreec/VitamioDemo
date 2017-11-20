@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\VitamioDemo\\vitamioDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\VitamioDemo\\vitamioDemo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\VitamioDemo\\vitamioDemo\\build\\intermediates\\res\\merged\\debug\\layout\\mediacontroller.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\VitamioDemo\\initActivity\\build\\intermediates\\bundles\\default\\res\\layout\\mediacontroller.xml"
+    }
+]
